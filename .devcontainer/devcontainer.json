@@ -1,0 +1,11 @@
+ {
+       // Nombre esta configuración
+       "name": "¡Espacio de código para habilidades!",
+       "personalizaciones": {
+           "vscode": {
+               "extensiones": [
+                   "GitHub.copiloto"
+               ]
+           }
+       }
+   }
